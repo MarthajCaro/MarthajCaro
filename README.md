@@ -15,12 +15,15 @@ Junior Full Stack Developer from Colombia, passionate about building web applica
 - Tools: Git, GitHub
 
 ## 📂 Projects
-- 🔹 Token Management System (Frontend):  
-  https://github.com/MarthajCaro/token-management  
-
-- 🔹 Token Management API (Backend):  
-  https://github.com/MarthajCaro/token-management-api  
+| Project | Description | Tech |
+|---|---|---|
+| **Token Management** | Role-based token management with JWT auth and cloud deployment | Angular · TypeScript · Node.js · Express · PostgreSQL |
+| **SAFETY Platform** | Team project for SAPE SAS: GPS accessory monitoring interface | HTML · CSS · JavaScript · Java · Bootstrap |
+| **Task Planner** | Create, filter and track tasks with a progress dashboard | HTML · CSS · JavaScript · Bootstrap |
+| **Expense Tracker** | Personal finance tracker with persistent data | JavaScript · LocalStorage |
+| **Clima-IA** | Weather app built with AI-assisted development | JavaScript · REST API |
+| **Portfolio** | Interactive portfolio with Cyber UI design | HTML · CSS · JavaScript |
 
 ## 📫 Contact
-- 📧 marthajcaro@hotmail.com
+- 📧 marthajcarom@hotmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/marthacaro
